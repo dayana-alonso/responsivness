@@ -1,0 +1,39 @@
+/*POSITIONING*/
+
+.container {
+  width: 1000px !important;
+  height: auto;
+  box-sizing: border-box;
+ }
+
+.centered {
+	margin-left:auto !important;
+	margin-right:auto !important;
+	box-sizing: border-box;
+}
+
+.float-left{
+	float: left;
+}
+
+.float-right{
+	float: right;
+}
+
+.clear-float::after {
+	display: block;
+	content:"";
+	clear:both;
+}
+
+.footer{
+	position: absolute;
+	width: 100%;
+	bottom:0px;
+	font-size: 12px
+}
+
+.form-control{
+	box-sizing: border-box;
+}
+/*END POSITIONING*/

@@ -1,0 +1,54 @@
+.right-block{
+	width: 540px;
+	height: 50px;
+}
+
+.left-block{
+	width: 540px;
+	height: 50px;
+}
+
+.test-block{
+	width: 720px;
+	height: 110px;
+}
+
+.home-block {
+	width: 220px !important;
+	height: 70px !important;
+}
+
+.header2-block {
+	width: 320px !important;
+	height:90px !important;
+}
+
+.row1-block {
+	width: 420px !important;
+	height:100px !important;
+}
+
+.center-block {
+	width: 350px !important;
+	height: 100px !important;
+}
+
+.row2-block {
+	width: 420px !important;
+	height:100px !important;
+}
+
+.last-block {
+	width: 420px !important;
+	height:100px !important;
+}
+
+.callback-block{
+	width: 540px;
+	height: 100px;
+}
+
+.Q-block {
+	width: 520px !important;
+	height:100px !important;
+}

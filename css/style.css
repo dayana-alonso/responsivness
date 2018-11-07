@@ -1,0 +1,46 @@
+body{ 
+	font-family: "Verdana", sans-serif;
+	margin-top: 40px !important;
+}
+
+.red-box {
+	border: 1px red dotted;
+}
+
+.blue-box{
+	border: 1px blue dotted;
+}
+
+.green-box{
+	border: 1px green dotted;
+}
+
+.yellow-box{
+	border: 1px yellow dotted;
+}
+
+
+/*RESET*/
+body, ul, h1, h2, h3, h4, h5, h6,p {
+	margin: 0px;
+	padding: 0px;
+}
+
+ul{
+	list-style:none;
+}
+
+a {
+	text-decoration: none;
+}
+
+nav a {
+	color: #fff;
+}
+
+form-control {
+padding:none;
+margin: none;
+}
+
+/*END RESET*/
